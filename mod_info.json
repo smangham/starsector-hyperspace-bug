@@ -1,0 +1,13 @@
+{
+  "id": "toaster_hyperspace_bug",
+  "name": "Hyperspace Bug",
+  "author": "Talkie Toaster",
+  "utility": false,
+  "version": { "major": '1', "minor": '0', "patch": '0' },
+  "description": "Starsector IntelliJ template.",
+  "gameVersion": "0.98a-RC5",
+  "jars": [ "jars/toaster_hyperspace_bug.jar" ],
+  "modPlugin": "toaster.HyperspaceBugModPlugin",
+  "dependencies": [
+  ],
+}

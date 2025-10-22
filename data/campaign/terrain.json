@@ -1,0 +1,14 @@
+{
+    "hyperspace":{
+        "plugin":"toaster.BuggedHyperspaceTerrainPlugin",
+        "musicSuppression":1,
+        "loopTwo":"terrain_hyperspace_deep",
+        "loopThree":"terrain_hyperspace_abyss",
+        "loopFour":"terrain_hyperspace_storm",
+        "custom": {
+            "stormSound": "terrain_hyperspace_lightning",
+            "gain": 0.75,
+            "gainHF": 0.1
+        }
+    }
+}
